@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Locale;
 
-
+//
 public class crear_fichero {
 	static String datos_fichero;
 	public static String TEXT; 
